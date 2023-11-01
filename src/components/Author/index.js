@@ -4,8 +4,10 @@ import { AuthorContainer } from "./styles";
 function Author() {
   return (
     <AuthorContainer>
-      <p className="underline">Created by : </p>
-      <p>Vedant Solunke, Tushar Jadhav, Samarath Patil, Sandeep Milake</p>
+      Created by{" "}
+      <a href="https://www.linkedin.com/in/vedantsolunke/" target="_blank" rel="noopener noreferrer">
+        Vedant Solunke
+      </a>
     </AuthorContainer>
   );
 }
