@@ -4,11 +4,11 @@ Welcome to the MERN Todo List project! This web application allows you to manage
 
 ## Screenshots 📸
 
-![App Screenshot](https://your-image-url.com)
+![App Screenshot](https://image-url.com)
 
 ## Website Link 🔗
 
-You can access the MERN Todo List by following this [Link](https://your-app-link.com). 🌐
+You can access the MERN Todo List by following this [Link](https://mern-todo-frontend-delta.vercel.app/). 🌐
 
 ## How to Use 📝
 
@@ -32,7 +32,6 @@ You can access the MERN Todo List by following this [Link](https://your-app-link
 - React.js
 - Node.js
 - Tailwind CSS (or any other CSS framework)
-- Other relevant technologies used in your project.
 
 ## Contribution 🤝
 
@@ -40,11 +39,11 @@ Contributions to this project are welcomed! If you'd like to contribute, feel fr
 
 ## Feedback and Issues 📣🔧
 
-If you encounter any issues while using the MERN Todo List or have suggestions for improvements, please feel free to [open an issue](https://github.com/your-username/your-repo/issues) on the GitHub repository. Your feedback helps enhance the user experience. 🛠️
+If you encounter any issues while using the MERN Todo List or have suggestions for improvements, please feel free to [open an issue](https://github.com/VedantSolunke/mern-todo-frontend/issues) on the GitHub repository. Your feedback helps enhance the user experience. 🛠️
 
 ---
 
-Thank you for exploring the MERN Todo List repository. We hope this application helps you stay organized and manage your tasks efficiently. Happy task management! 📋🙌
+Thank you for exploring the MERN Todo List repository. I hope this application helps you stay organized and manage your tasks efficiently. Happy task management! 📋🙌
 
 ## Known Limitations and Future Improvements 🚧🚀
 
@@ -60,15 +59,15 @@ This project was made possible thanks to the following resources and libraries: 
 - [Express.js](https://expressjs.com)
 - [React.js](https://reactjs.org)
 - [Node.js](https://nodejs.org)
-- [Tailwind CSS](https://tailwindcss.com) - or mention other CSS framework used
+- [Tailwind CSS](https://tailwindcss.com)
 
 ## Contact 📬📞
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- Your Name
-- GitHub: [YourGitHubUsername](https://github.com/your-github-username)
-- Email: your@email.com
+- Vedant Solunke
+- GitHub: [VedantSolunke](https://github.com/VedantSolunke)
+- Email: vedsocialid@gmail.com
 
 ---
 
